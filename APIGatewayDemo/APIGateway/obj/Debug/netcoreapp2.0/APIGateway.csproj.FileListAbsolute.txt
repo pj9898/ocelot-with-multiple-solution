@@ -1,0 +1,14 @@
+D:\.net projets\APIGatewayDemo\APIGateway\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\.net projets\APIGatewayDemo\APIGateway\bin\Debug\netcoreapp2.0\configuration.json
+D:\.net projets\APIGatewayDemo\APIGateway\bin\Debug\netcoreapp2.0\APIGateway.deps.json
+D:\.net projets\APIGatewayDemo\APIGateway\bin\Debug\netcoreapp2.0\APIGateway.runtimeconfig.json
+D:\.net projets\APIGatewayDemo\APIGateway\bin\Debug\netcoreapp2.0\APIGateway.runtimeconfig.dev.json
+D:\.net projets\APIGatewayDemo\APIGateway\bin\Debug\netcoreapp2.0\APIGateway.dll
+D:\.net projets\APIGatewayDemo\APIGateway\bin\Debug\netcoreapp2.0\APIGateway.pdb
+D:\.net projets\APIGatewayDemo\APIGateway\obj\Debug\netcoreapp2.0\APIGateway.csprojAssemblyReference.cache
+D:\.net projets\APIGatewayDemo\APIGateway\obj\Debug\netcoreapp2.0\APIGateway.AssemblyInfoInputs.cache
+D:\.net projets\APIGatewayDemo\APIGateway\obj\Debug\netcoreapp2.0\APIGateway.AssemblyInfo.cs
+D:\.net projets\APIGatewayDemo\APIGateway\obj\Debug\netcoreapp2.0\APIGateway.csproj.CoreCompileInputs.cache
+D:\.net projets\APIGatewayDemo\APIGateway\obj\Debug\netcoreapp2.0\APIGateway.dll
+D:\.net projets\APIGatewayDemo\APIGateway\obj\Debug\netcoreapp2.0\APIGateway.pdb
+D:\.net projets\APIGatewayDemo\APIGateway\obj\Debug\netcoreapp2.0\APIGateway.genruntimeconfig.cache

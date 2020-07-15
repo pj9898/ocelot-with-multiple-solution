@@ -1,0 +1,13 @@
+D:\.net projets\APIGatewayDemo\CustomersAPIServices\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\.net projets\APIGatewayDemo\CustomersAPIServices\bin\Debug\netcoreapp2.0\CustomersAPIServices.deps.json
+D:\.net projets\APIGatewayDemo\CustomersAPIServices\bin\Debug\netcoreapp2.0\CustomersAPIServices.runtimeconfig.json
+D:\.net projets\APIGatewayDemo\CustomersAPIServices\bin\Debug\netcoreapp2.0\CustomersAPIServices.runtimeconfig.dev.json
+D:\.net projets\APIGatewayDemo\CustomersAPIServices\bin\Debug\netcoreapp2.0\CustomersAPIServices.dll
+D:\.net projets\APIGatewayDemo\CustomersAPIServices\bin\Debug\netcoreapp2.0\CustomersAPIServices.pdb
+D:\.net projets\APIGatewayDemo\CustomersAPIServices\obj\Debug\netcoreapp2.0\CustomersAPIServices.csprojAssemblyReference.cache
+D:\.net projets\APIGatewayDemo\CustomersAPIServices\obj\Debug\netcoreapp2.0\CustomersAPIServices.AssemblyInfoInputs.cache
+D:\.net projets\APIGatewayDemo\CustomersAPIServices\obj\Debug\netcoreapp2.0\CustomersAPIServices.AssemblyInfo.cs
+D:\.net projets\APIGatewayDemo\CustomersAPIServices\obj\Debug\netcoreapp2.0\CustomersAPIServices.csproj.CoreCompileInputs.cache
+D:\.net projets\APIGatewayDemo\CustomersAPIServices\obj\Debug\netcoreapp2.0\CustomersAPIServices.dll
+D:\.net projets\APIGatewayDemo\CustomersAPIServices\obj\Debug\netcoreapp2.0\CustomersAPIServices.pdb
+D:\.net projets\APIGatewayDemo\CustomersAPIServices\obj\Debug\netcoreapp2.0\CustomersAPIServices.genruntimeconfig.cache

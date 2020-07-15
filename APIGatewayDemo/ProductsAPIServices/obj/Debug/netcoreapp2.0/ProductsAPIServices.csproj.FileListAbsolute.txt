@@ -1,0 +1,13 @@
+D:\.net projets\APIGatewayDemo\ProductsAPIServices\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\.net projets\APIGatewayDemo\ProductsAPIServices\bin\Debug\netcoreapp2.0\ProductsAPIServices.deps.json
+D:\.net projets\APIGatewayDemo\ProductsAPIServices\bin\Debug\netcoreapp2.0\ProductsAPIServices.runtimeconfig.json
+D:\.net projets\APIGatewayDemo\ProductsAPIServices\bin\Debug\netcoreapp2.0\ProductsAPIServices.runtimeconfig.dev.json
+D:\.net projets\APIGatewayDemo\ProductsAPIServices\bin\Debug\netcoreapp2.0\ProductsAPIServices.dll
+D:\.net projets\APIGatewayDemo\ProductsAPIServices\bin\Debug\netcoreapp2.0\ProductsAPIServices.pdb
+D:\.net projets\APIGatewayDemo\ProductsAPIServices\obj\Debug\netcoreapp2.0\ProductsAPIServices.csprojAssemblyReference.cache
+D:\.net projets\APIGatewayDemo\ProductsAPIServices\obj\Debug\netcoreapp2.0\ProductsAPIServices.AssemblyInfoInputs.cache
+D:\.net projets\APIGatewayDemo\ProductsAPIServices\obj\Debug\netcoreapp2.0\ProductsAPIServices.AssemblyInfo.cs
+D:\.net projets\APIGatewayDemo\ProductsAPIServices\obj\Debug\netcoreapp2.0\ProductsAPIServices.csproj.CoreCompileInputs.cache
+D:\.net projets\APIGatewayDemo\ProductsAPIServices\obj\Debug\netcoreapp2.0\ProductsAPIServices.dll
+D:\.net projets\APIGatewayDemo\ProductsAPIServices\obj\Debug\netcoreapp2.0\ProductsAPIServices.pdb
+D:\.net projets\APIGatewayDemo\ProductsAPIServices\obj\Debug\netcoreapp2.0\ProductsAPIServices.genruntimeconfig.cache
